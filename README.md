@@ -4,7 +4,7 @@ Welcome to my Python learning journey and practice collection.
 
 <br>
 
-This repository contains my Python practice, exercises, notes, and mini-projects as I learn programming from the basics to more advanced topics.
+This repository contains my Python practice, exercises, and mini-projects as I learn programming from the basics to more advanced topics.
 
 ## Goals
 - Understand Python fundamentals
