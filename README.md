@@ -15,4 +15,4 @@ This repository contains my Python practice, exercises, and mini-projects as I l
 
 - Variable
 
-This repository is a record of my growth as a Python developer.
+This repository is a record of my growth as a future #Software Engnineer.
